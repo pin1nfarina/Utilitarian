@@ -395,7 +395,6 @@ section{ padding: 64px 0; }
 /* ---------------- About page ---------------- */
 .about-hero{
   padding: 80px 0 30px;
-  max-width: 760px;
 }
 .founders{
   display:grid;
